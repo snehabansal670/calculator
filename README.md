@@ -15,6 +15,20 @@ This is a simple calculator application built using only HTML and CSS. The calcu
 - **HTML**: Provides the structure of the calculator.
 - **CSS**: Used for styling the calculator, including layout, colors, and responsive design.
 
+ # Demo
+ 
+### Visual Demo
+
+You can see the static calculator in action:
+
+!vercel app(https://calculator-bay-nine-55.vercel.app/)
+
+### Live Preview
+
+Check out the live version of the calculator on GitHub Pages:  
+[Live Demo](https://snehabansal670.github.io/calculator/)
+
+
 ## Installation
 
 1. Clone the repository:
